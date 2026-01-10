@@ -67,7 +67,7 @@ body {
         transform: rotate(90deg);
     }
     100% {
-        transform: rotate(20deg);
+        transform: rotate(270deg);
     }
 }
 
@@ -76,7 +76,7 @@ body {
         transform: rotate(180deg);
     }
     100% {
-        transform: rotate(18deg);
+        transform: rotate(180deg);
     }
 }
 
