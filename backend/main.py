@@ -5,3 +5,5 @@ def func(n):
         return 1
     return n*(func(n-1))
 print("non sense")
+
+print("friday")
